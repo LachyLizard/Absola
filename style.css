@@ -1,0 +1,46 @@
+p {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    display: block;
+    background-color: rgba(0, 0, 0, 0.385);
+    width: 45%;
+    margin: 1% auto;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.385);
+    display: block;
+}
+
+nav {
+    color: rgb(0, 0, 0);
+    background-color: rgb(58, 190, 93);
+    position: fixed;
+    top: 0px;
+    width: 98.95%;
+    height: 3%;
+    font-weight: bold;
+}
+
+.navLeft{
+     float:left;
+     padding: 3px;
+     left: 0px;
+}
+.navRight{
+     float:right;
+     padding: 3px;
+     right: 0px;
+     color:black;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+
+a:hover {
+    background-color:white;
+}
